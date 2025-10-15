@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @elmahd1
-- 👀 I’m interested in web dev and java
-- 🌱 I learned c/c++, sql/plsql/nosql, web dev (angular , laravel), kotlin and some other things..
+- 👀 I’m interested in 
+- 🌱 I learned c/c++, web dev (angular , laravel), kotlin , spring boot..
 - 💞️ I’m looking to collaborate on some good projects
 - 📫 How to reach me
-- @lmhd1__ on instagram
+- @lm4hdi__ on instagram
 -elmhadri elmahdi on linkedIn
 
 <!---
