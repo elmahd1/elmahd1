@@ -1,96 +1,33 @@
-##🚀 Elmhadri El mahdi — Full-Stack Software Engineer
+🚀 YOUR NAME
+Full-Stack Developer
+🧑‍💻 ABOUT ME
 
-Building scalable, performant, and maintainable applications across the stack.
+Full-stack developer focused on building scalable and maintainable web applications.
+I enjoy designing clean backend architectures, developing performant APIs, and creating responsive frontend interfaces.
+Always improving code quality, system design, and real-world problem solving.
 
-👋 About Me
+🛠️ TECH
 
-I’m a full-stack developer passionate about designing clean architectures and delivering high-quality software solutions.
-I focus on writing maintainable code, optimizing performance, and building systems that scale.
+Java • Spring Boot • React • Node.js • PostgreSQL • Oracle • JavaScript
 
-🛠️ Tech Stack
-Languages
+🚀 PROJECTS
+Project One
 
-JavaScript (ES6+)
+A full-stack web application built with Spring Boot and React.
+Implements secure authentication, RESTful APIs, and optimized database queries using PostgreSQL.
+Designed with clean architecture principles and modular structure.
 
-TypeScript
+Project Two
 
-Frontend
+Backend-focused system using Node.js and Oracle.
+Handles data processing, validation, and efficient query management.
+Emphasis on performance optimization and scalable API design.
 
-React
+Side Project
 
-Tailwind CSS
+Personal learning project exploring modern JavaScript and frontend patterns.
+Focused on clean UI, reusable components, and improving overall developer workflow.
 
-Backend
+🔗 CONNECT
 
-Node.js
-
-Express.js
-
-Databases
-
-PostgreSQL
-
-MongoDB
-
-DevOps & Tools
-
-Docker
-
-AWS
-
-GitHub Actions
-
-Git
-
-CI/CD Pipelines
-
-🚀 Featured Projects
-🔹 Project Name
-
-Description:
-Brief explanation of what the project does, its core features, and the technical challenges solved.
-
-Tech Used:
-React • Node.js • PostgreSQL • Docker
-
-🔹 Another Project
-
-Description:
-Explain the real problem this project solves and how your architecture/design decisions improved performance or usability.
-
-Tech Used:
-Next.js • Django • Redis • AWS
-
-🔹 Side Project
-
-Description:
-Highlight creativity, experimentation, or a learning milestone. Mention scalability, automation, or optimization if relevant.
-
-Tech Used:
-Go • MongoDB • Docker
-
-📊 What I Focus On
-
-Clean Architecture & Design Patterns
-
-Scalable Backend Systems
-
-RESTful APIs & Microservices
-
-Performance Optimization
-
-CI/CD & Cloud Deployment
-
-🔗 Connect With Me
-
-🌐 Portfolio
-
-💼 LinkedIn
-
-🐦 Twitter
-
-✍️ Blog
-<!---
-elmahd1/elmahd1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Portfolio • LinkedIn • GitHub
