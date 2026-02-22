@@ -1,16 +1,16 @@
-## 🚀 YOUR NAME
+# 🚀 YOUR NAME
 Full-Stack Developer
-# 🧑‍💻 ABOUT ME
+## 🧑‍💻 ABOUT ME
 
 Full-stack developer focused on building scalable and maintainable web applications.
 I enjoy designing clean backend architectures, developing performant APIs, and creating responsive frontend interfaces.
 Always improving code quality, system design, and real-world problem solving.
 
-# 🛠️ TECH
+## 🛠️ TECH
 
 Java • Spring Boot • React • Node.js • PostgreSQL • Oracle • JavaScript
 
-# 🚀 PROJECTS
+## 🚀 PROJECTS
 Project One
 
 A full-stack web application built with Spring Boot and React.
